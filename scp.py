@@ -1,4 +1,3 @@
 
 print("helooo")
 
-print("goodbye")
